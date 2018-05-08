@@ -34,7 +34,7 @@ OK.执行结果如下：
 
 首先全部输出first，然后全部输出second；尽管中间的执行会超过5ms。
 
-为什么呢？![](https://ws1.sinaimg.cn/large/d8cefbbagy1fr1x4h3iscj2019019a9w.jpg)
+为什么呢？![](https://ws1.sinaimg.cn/large/d8cefbbagy1fr1x34a4igj20gc0blafh.jpg)
 
 # JavaScript是单线程的
 
