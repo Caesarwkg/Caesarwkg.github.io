@@ -1,15 +1,14 @@
 ---
 layout:     post
-title:      深入分析JavaScript是单线程的
-subtitle:   用2个小demo彻底弄懂JS的单线程机制
+title:      深入分析JavaScript是单线程的【转】
+subtitle:   彻底弄懂JS的单线程机制
 date:       2017-10-26
 author:     Gage
 header-img: img/post-bg-js-version.jpg
 catalog: true
 tags:
     - JavaScript
-    - 单线程
-    - 基础
+    - JavaScript 学习
 ---
 
 >为什么JavaScript是单线程的却能让AJAX异步发送和回调请求，为什么setTimeout也看起来像是多线程的？
