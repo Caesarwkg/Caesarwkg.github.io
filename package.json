@@ -1,14 +1,14 @@
 {
-    "name": "by-blog",
-    "title": "BY Blog",
-    "author": "BY <qiubaiyingios@163.com>",
-    "version": "1.7.0",
-    "homepage": "http://qiubaiying.github.io",
+    "name": "gage-blog",
+    "title": "Gage Blog",
+    "author": "Gage <604972209@qq.com>",
+    "version": "2.0",
+    "homepage": "http://Caesarwkg.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/qiubaiying/qiubaiying.github.io"
+        "url": "https://github.com/Caesarwkg/Caesarwkg.github.io"
     },
-    "bugs": "https://github.com/qiubaiying/qiubaiying.github.io/issues",
+    "bugs": "https://github.com/Caesarwkg/Caesarwkg.github.io/issues",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",
